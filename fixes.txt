@@ -1,1 +1,3 @@
  I am a fix file to fix the bug.
+
+ This is the changes in the master file of fixes.
